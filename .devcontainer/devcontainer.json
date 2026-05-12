@@ -5,8 +5,8 @@
     "vscode": {
       "extensions": [
         "ms-vscode.live-server",
-        // Extension to force markdown files to open in Preview mode automatically
-        "hnw.vscode-auto-open-markdown-preview" 
+        "hnw.vscode-auto-open-markdown-preview",
+        "ritwickdey.LiveServer"
       ],
       "settings": {
         "livePreview.server.keepAlive": true,
